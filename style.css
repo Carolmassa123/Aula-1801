@@ -149,3 +149,24 @@ button{
     font-size: 12px;
     color: white;
 }
+
+#requestAQuote{
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#numbers{
+    display: flex;
+    align-items: center;
+}
+
+#maior{
+    width: 30vw;
+}
+
+#form{
+    
+}
